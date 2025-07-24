@@ -1,1 +1,1 @@
-It's a food delivery app created by java lunguage 
+It's a food delivery app develop by java 
